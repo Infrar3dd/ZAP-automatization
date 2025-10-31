@@ -1,5 +1,7 @@
 # ZAP-automatization
 
+Project for PSB infromation security school test
+
 ```python
 $ python3 ZAP_automatization.py --help                
   usage: ZAP_automatization.py [-h] [-a ADDRESS] [-p PORT]
