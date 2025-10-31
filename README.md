@@ -1,6 +1,6 @@
 # ZAP-automatization
 
-Project for PSB infromation security school test
+ZAP-automatization project for PSB infromation security school test
 
 ```python
 $ python3 ZAP_automatization.py --help                
